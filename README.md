@@ -33,14 +33,7 @@ Below is a sample of the edge detection result achieved by the tool:
 - `Images/`: Contains the original images.
 
 ## 👥 The Team
-Developed by Computer Science students at **King Faisal University**:
-- **Atekah Hussain Aljafar**
-- *Zainab Abdulkarim Alhadhari*
-- *Anfal Ahmad Alsuhayib*
-- *Maryam Ahmed Alshabib*
+Developed by Computer Science students at **Parul University**:
+- **Anviksha Jain**
+- *Tisha soni*
 
----
-*Part of the Digital Image Processing Course (CS323) - KFU (2024-2025).*
----
-*Connect with me on LinkedIn for more projects!*
-[https://www.linkedin.com/in/ateka-hussain/](https://www.linkedin.com/in/ateka-hussain/)
